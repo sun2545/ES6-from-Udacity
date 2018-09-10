@@ -4,3 +4,6 @@
 #### 2) Template Literals
 #### 3) Destructuring
 #### 4) Loops
+
+### 2. Function
+#### 1) Arrow Function
