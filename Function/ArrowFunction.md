@@ -16,3 +16,5 @@ Icecream('chocolate', 'waffle');
 
 #### result will be
 Here's your chocolate ice cream in waffle cone.
+#### below examples are correct
+![capture](https://user-images.githubusercontent.com/26092150/45396730-0c2d7000-b60b-11e8-89df-ba44f6ac199a.JPG)
