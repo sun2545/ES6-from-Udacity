@@ -12,7 +12,7 @@ hello
 const Icecream = (flavor,cone) =>console.log(`Here's your ${flavor} ice cream in a ${cone} cone.`);
 Icecream('chocolate', 'waffle');
 
-=> I can't use ````
+=> I can't use (` `) in github inside consloe
 
 #### result will be
 Here's your chocolate ice cream in waffle cone.
