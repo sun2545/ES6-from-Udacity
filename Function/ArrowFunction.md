@@ -9,7 +9,7 @@ const Hi = () => console.log("hello");
 hello
 
 #### two or more
-const Icecream = (flavor,cone) =>console.log(`Here's your ${flavor} ice cream in a ${cone} cone.`);
+const Icecream = (flavor,cone) =>console.log(``Here's your ${flavor} ice cream in a ${cone} cone.``);
 Icecream('chocolate', 'waffle');
 #### result will be
 Here's your chocolate ice cream in waffle cone.
