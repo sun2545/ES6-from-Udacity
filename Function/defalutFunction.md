@@ -15,7 +15,7 @@ function greet(name = 'Student', greeting = 'Welcome') {
   return `${greeting} ${name}!`;
 }
 
-greet(); // Welcome Student!
+greet(); // Welcome Student! <br>
 greet('James'); // Welcome James!
 greet('Richard', 'Howdy'); // Howdy Richard!
 
