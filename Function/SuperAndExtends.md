@@ -10,10 +10,8 @@ class Tree { <br>
     this.leafColor = this.leaves[season];<br><br>
     if (season === 'spring') {<br>
       this.size += 1;<br>
-    }<br>
-  }<br>
-}<br>
-
+    }}}<br>
+ 
 class Maple extends Tree {<br>
   constructor(syrupQty = 15, size, leaves) {<br>
     super(size, leaves);<br>
