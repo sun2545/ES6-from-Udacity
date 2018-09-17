@@ -3,4 +3,4 @@ const games = new Set(['Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart', 'Supe
 console.log(games);<br>
 
 #### Result
-<font color="red"> Set {'Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart'} </>
+<font color="red"> Set {'Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart'} </font>
