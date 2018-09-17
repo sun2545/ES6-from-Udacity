@@ -3,5 +3,5 @@ const games = new Set(['Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart', 'Supe
 console.log(games);<br>
 
 #### Result
-<p><font color="red"> Set {'Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart'} </font></p>
+Set {'Super Mario Bros.', 'Banjo-Kazooie', 'Mario Kart'} <br>
 -- removes the duplicate  
