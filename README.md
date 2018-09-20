@@ -9,4 +9,6 @@
 #### 1) Arrow Function
 #### 2) Default function parameters
 ### 3. Built-in
-#### 1)Set
+#### 1) Set
+#### 2) Symbol
+#### 3) Map
