@@ -11,3 +11,16 @@ new Promise(function (resolve, reject) {<br>
 
 resolve ->successful <br>
 reject  ->couldn't be completed
+
+#### .then()
+##### Two function of .then()
+1. the function to run if the request completed successfully <br>
+2. the function to run if the request failed to complete <br>
+
+mySundae.then(function(sundae) { -----(1)<br>
+    console.log(`Time to eat my delicious ${sundae}`); <br>
+}, function(msg) { <br>    ------(2)
+    console.log(msg); <br>
+    self.goCry(); // not a real method <br>
+}); <br>
+if successful, it calls (1), if unsuccessful, it calls (2) 
