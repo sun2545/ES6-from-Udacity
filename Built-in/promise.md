@@ -1,3 +1,4 @@
+#### Promise
 new Promise(function (resolve, reject) {<br>
     window.setTimeout(function createSundae(flavor = 'chocolate') {<br>
         const sundae = {};<br>
