@@ -19,7 +19,7 @@ reject  ->couldn't be completed
 
 mySundae.then(function(sundae) { -----(1)<br>
     console.log(`Time to eat my delicious ${sundae}`); <br>
-}, function(msg) { <br>    ------(2)
+}, function(msg) {    ------(2) <br>
     console.log(msg); <br>
     self.goCry(); // not a real method <br>
 }); <br>
