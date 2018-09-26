@@ -23,4 +23,4 @@ mySundae.then(function(sundae) { -----(1)<br>
     console.log(msg); <br>
     self.goCry(); // not a real method <br>
 }); <br>
-if successful, it calls (1), if unsuccessful, it calls (2) 
+##### if successful, it calls (1), if unsuccessful, it calls (2) 
