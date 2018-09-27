@@ -4,6 +4,6 @@
 const generatorIterator = getEmployee();<br>
 generatorIterator.next(); <br>
 
-It will be 
+It will be<br>
 the function has started <br>
 Amanda 
