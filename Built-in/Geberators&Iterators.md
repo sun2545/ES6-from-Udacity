@@ -7,3 +7,5 @@ generatorIterator.next(); <br>
 It will be<br>
 the function has started <br>
 Amanda 
+<br><br>
+![capture](https://user-images.githubusercontent.com/26092150/46122459-ba7a0d80-c1e6-11e8-9dfd-5e24e4fbb3ba.JPG)
