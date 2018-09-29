@@ -13,3 +13,5 @@
 #### 2) Symbol
 #### 3) Map
 #### 4) Promise
+#### 5) Proxy
+#### 6) Generator&Iterators
